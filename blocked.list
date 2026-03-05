@@ -1,6 +1,6 @@
 # 由于机场审计被封网站
-DOMAIN,chinadigitaltimes.net
-DOMAIN,pincong.rocks
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,pincong.rocks
 # DOMAIN-SUFFIX,polymarket.com
 # DOMAIN-SUFFIX,cacapex.com
 
