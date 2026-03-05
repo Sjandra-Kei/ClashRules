@@ -1,4 +1,4 @@
-# 因机场审计被封网站
+# 被机场审计规则封禁的网站
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,pincong.rocks
 # DOMAIN-SUFFIX,polymarket.com
