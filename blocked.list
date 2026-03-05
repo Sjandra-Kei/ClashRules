@@ -1,6 +1,6 @@
 # 机场审计导致的封禁网址
 DOMAIN-SUFFIX,chinadigitaltimes.net
-DOMAIN-SUFFIX,https://pincong.rocks/
+DOMAIN-SUFFIX,pincong.rocks
 # DOMAIN-SUFFIX,polymarket.com
 # DOMAIN-SUFFIX,cacapex.com
 
